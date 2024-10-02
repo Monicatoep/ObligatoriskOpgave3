@@ -1,0 +1,20 @@
+.card {
+    border-color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+
+.smallCard {
+    border-color: black;
+  }
+
+
+  a {
+    color: #9b8c04;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #eede54;
+    text-decoration: underline;
+}
